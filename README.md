@@ -2,6 +2,10 @@
 
 Docker image for NGINX, based on Alpine Linux.
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/andreburgaud/nginx.svg)](https://hub.docker.com/r/andreburgaud/nginx/)
+[![Docker Automated Build](https://img.shields.io/docker/automated/andreburgaud/nginx.svg)](https://hub.docker.com/r/andreburgaud/nginx/)
+[![Docker Build Status](https://img.shields.io/docker/build/andreburgaud/nginx.svg)](https://hub.docker.com/r/andreburgaud/nginx/)
+
 # Pull the Image
 
 ```
